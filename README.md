@@ -1,4 +1,4 @@
 # demo-repository
 This is my first repository.
 <br>
-Author - Heer Mehta
+Author - Heer Mehta(student)
